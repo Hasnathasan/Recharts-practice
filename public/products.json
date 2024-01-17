@@ -1,0 +1,79 @@
+[
+    {
+      "name": "Smartphone",
+      "id": 1,
+      "price": 399.99,
+      "features": {
+        "display": "6.2 inch OLED",
+        "camera": "12 MP rear camera, 8 MP front camera",
+        "memory": "128 GB",
+        "battery": "3500 mAh"
+      }
+    },
+    {
+      "name": "Laptop",
+      "id": 2,
+      "price": 899.99,
+      "features": {
+        "display": "15.6 inch Full HD",
+        "processor": "Intel Core i7-1165G7",
+        "memory": "16 GB DDR4",
+        "storage": "512 GB SSD"
+      }
+    },
+    {
+      "name": "Smart Watch",
+      "id": 3,
+      "price": 199.99,
+      "features": {
+        "display": "1.4 inch OLED",
+        "sensors": "Heart rate, GPS, Accelerometer",
+        "battery": "300 mAh",
+        "compatibility": "Android and iOS"
+      }
+    },
+    {
+      "name": "Wireless Earbuds",
+      "id": 4,
+      "price": 89.99,
+      "features": {
+        "connectivity": "Bluetooth 5.0",
+        "battery": "24 hours",
+        "waterproof": "IPX7",
+        "noise_cancellation": true
+      }
+    },
+    {
+      "name": "Smart Speaker",
+      "id": 5,
+      "price": 149.99,
+      "features": {
+        "voice_assistant": "Amazon Alexa",
+        "connectivity": "Wi-Fi and Bluetooth",
+        "audio_quality": "360-degree sound",
+        "smart_home_integration": true
+      }
+    },
+    {
+      "name": "Fitness Tracker",
+      "id": 6,
+      "price": 79.99,
+      "features": {
+        "sensors": "Heart rate, Sleep, Steps",
+        "display": "1.3 inch OLED",
+        "waterproof": "IP67",
+        "battery": "10 days"
+      }
+    },
+    {
+      "name": "Gaming Console",
+      "id": 7,
+      "price": 499.99,
+      "features": {
+        "processor": "AMD Ryzen Zen 2",
+        "graphics": "AMD RDNA 2",
+        "storage": "1 TB SSD",
+        "connectivity": "Wi-Fi and Bluetooth"
+      }
+    }
+  ]
